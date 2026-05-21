@@ -1,0 +1,189 @@
+# Rihan Sajeer — AI Systems Developer & Backend Engineer
+
+> This file exists so AI systems and LLM-based crawlers can read the full content of this portfolio.
+> The site is a React SPA and renders content dynamically via JavaScript.
+
+---
+
+## Identity
+
+- **Name:** Rihan Sajeer
+- **Title:** AI Systems Developer & Backend Engineer
+- **Location:** UAE (open to India, Remote, and Relocation)
+- **Availability:** Available to join immediately
+- **Email:** rihansajeer01@gmail.com
+- **Phone (UAE):** +971 567 421 615
+- **Phone (India):** +91 628 256 0679
+- **GitHub:** https://github.com/R1han
+- **LinkedIn:** https://linkedin.com/in/rihan-sajeer
+
+---
+
+## Summary
+
+AI Systems Developer with 3+ years of experience building production-grade LLM integrations and agentic workflows that solve real business problems. Works across the full stack — from designing multi-agent architectures and RAG pipelines to deploying them on AWS, Azure, and GCP. Systems have reduced resolution times by 80%, cut cloud costs by 30%, and shipped to production at scale. Hackathon-tested under pressure — 1st Runner-Up at Deriv AI Hackathon 2026 (366 teams). Based in UAE and open to opportunities worldwide.
+
+---
+
+## Work Experience
+
+### Freelance Developer — FreelanceDev (Remote)
+**Period:** Mar 2026 → Present
+**Stack:** FastAPI, Python, React, Next.js, Azure Copilot, Google Document AI
+
+- Built WhatsApp AI pipeline: invoice/bill/bank statement upload → Google Document AI → accounting system with AI service, core accounting service, and React frontend
+- Delivered Azure Copilot chatbot for product customization-based price prediction
+- Built Policy Tracker: automated govt API parsing with real-time compliance checking against company documents
+- Delivered dental clinic website in Next.js
+
+---
+
+### Associate Software Engineer — Quanhack (UAE)
+**Period:** Jun 2024 → Mar 2026
+**Stack:** Python, LangChain, GPT-4, Gemini, Ollama, Pinecone, AWS, Azure, Docker, GitHub Actions, Stable Diffusion, ElevenLabs
+
+- Reduced ticket resolution time by 80% via multi-agent AI platform (Gemini + Ollama hybrid inference)
+- Cut cloud costs by 30% through hybrid inference — Ollama local LLMs + Gemini cloud
+- Built medical research RAG system (Pinecone + GPT-4 + ReAct Agents); cut latency from 45–60s to 10–20s
+- Built AI movie generation pipeline (Stable Diffusion + ElevenLabs + Gemini)
+- Developed RAG system for factory hardware user manuals (Milvus + Gemini + ReAct Agents)
+- Led sprint planning, stakeholder discussions, and UI/UX coordination
+- Deployed on AWS, Azure, and Hostinger via Docker + GitHub Actions
+
+---
+
+### Software Engineer Intern — Quanhack (UAE)
+**Period:** Dec 2023 → Jun 2024
+**Stack:** Python, FastAPI, AWS Athena, NLP
+
+- Architected end-to-end backend AI automation workflows
+- Built NLP pipeline: AWS Athena SQL generation with data masking
+- Designed modular microservice architectures across multi-cloud environments
+
+---
+
+### Software Engineer Intern — Pradjna Intellisys (India)
+**Period:** Sep 2023 → Dec 2023
+**Stack:** Python, ML, Feature Engineering
+
+- Processed 30–40 GB datasets, achieving 2× faster ML convergence
+- Built ML preprocessing and feature engineering pipelines
+- Integrated models into mobile applications for field deployment
+
+---
+
+## Projects
+
+### SentinelBot — 🏆 Deriv AI Hackathon 2026 (366 Teams)
+**Category:** Hackathon | **Stack:** Python, LangGraph, Playwright, FastAPI, Slack API, React, Supabase
+**GitHub:** https://github.com/R1han/Sentinel-Bot
+
+Full-stack platform for managing automated QA runs. LangGraph agents autonomously browse and validate production flows, file GitHub issues on failures, and assign Slack owners — eliminating manual QA overhead.
+**Impact:** 1st Runner-Up among 366 teams. Reduced manual QA effort significantly.
+
+---
+
+### Ticket Resolution Platform — Enterprise (Quanhack)
+**Category:** Work | **Stack:** Python, FastAPI, LangChain, Gemini, Ollama, AWS, Docker
+
+Production enterprise platform using multi-agent pipelines to classify, route, and resolve support tickets. Hybrid inference strategy combining Ollama (local LLMs) and Gemini (cloud) cut cloud costs by 30%.
+**Impact:** ↓80% resolution time · ↓30% cloud costs · hybrid local+cloud inference
+
+---
+
+### Medical Research RAG System — RAG / Healthcare (Quanhack)
+**Category:** Work | **Stack:** Python, LangChain, GPT-4, Pinecone, ReAct Agents, FastAPI
+
+Production RAG system indexing medical research papers in Pinecone. ReAct agents handle multi-step reasoning over retrieved context. Pipeline tuning reduced end-to-end GPT-4 latency from 45–60s down to 10–20s.
+**Impact:** GPT-4 latency 45–60s → 10–20s · production RAG over medical literature.
+
+---
+
+### Hardware User Manual RAG — Industrial (Quanhack)
+**Category:** Work | **Stack:** Python, LangChain, Gemini, Milvus, ReAct Agents, FastAPI
+
+Production RAG system enabling engineers to query factory hardware user manuals and deployment documentation through natural language. ReAct agents reason over Milvus-indexed documentation chunks using Gemini as the backbone LLM.
+**Impact:** Eliminated manual doc searches for field engineers · deployed at Quanhack.
+
+---
+
+### AI Movie Generation Pipeline — Generative (Quanhack)
+**Category:** Work | **Stack:** Python, Stable Diffusion, ElevenLabs, Gemini, FastAPI
+
+Orchestrated pipeline combining Stable Diffusion for frames, ElevenLabs for voiceover synthesis, and Gemini for script generation — producing coherent short-form video content fully autonomously.
+**Impact:** Full generative pipeline shipped to production at Quanhack.
+
+---
+
+### WhatsApp AI Accounting System — FinTech (Freelance)
+**Category:** Freelance | **Stack:** FastAPI, Python, React, Google Document AI, WhatsApp API
+
+Invoice, bill, and bank statement photos sent via WhatsApp flow through Google Document AI parsing into an accounting backend. Includes core accounting service, AI extraction service, and React frontend.
+**Impact:** Fully automated document-to-ledger pipeline for a real business client.
+
+---
+
+### Human Investment Judgement — Multi-Agent FinTech
+**Category:** Personal | **Stack:** Python, LangGraph, GPT-4, CrewAI, FastAPI
+**GitHub:** https://github.com/R1han/Human-Investment-Judgement
+
+A multi-agent architecture where specialized agents (Analyst, Devil's Advocate, Synthesizer) debate investment theses and produce explainable, human-aligned verdicts on stocks and assets.
+**Impact:** Explainable AI decisions with traceable reasoning chains.
+
+---
+
+### ExperiMentor — EdTech Simulation
+**Category:** Personal | **Stack:** React, Python, FastAPI, LangChain, GPT-4
+**GitHub:** https://github.com/R1han/ExperiMentor
+
+Interactive web platform enabling students to run physics and chemistry experiments in a virtual lab. An AI chatbot provides real-time guidance, explains concepts, and adapts difficulty.
+**Impact:** Interactive STEM simulation tool with AI tutoring layer.
+
+---
+
+### Drone Crowd Monitor — B.Tech Thesis (Computer Vision)
+**Category:** Academic | **Stack:** Python, OpenCV, YOLO, TensorFlow, Flask
+
+Computer vision pipeline processing aerial drone video to detect, count, and map crowd density in real time. Achieved 50% faster density analysis over baseline methods.
+**Impact:** 50% faster density analysis · B.Tech thesis project.
+
+---
+
+## Skills
+
+- **Languages:** Python, TypeScript, Java, C
+- **Frameworks:** FastAPI, Flask, React, REST APIs, Next.js
+- **AI / ML:** LangChain, LlamaIndex, CrewAI, ReAct Agents, LangGraph, Azure AI Foundry
+- **Models:** GPT-4o, Gemini, Llama 3/4, Claude, Mistral, Deepseek
+- **Cloud & DevOps:** AWS, Azure, GCP, Docker, GitHub Actions, Kafka
+- **Databases:** PostgreSQL, Milvus, MongoDB, NebulaGraph, DynamoDB
+
+---
+
+## Education
+
+**B.Tech Computer Science & Engineering**
+SCMS School of Engineering & Technology, Cochin
+- GPA: 9.32 / 10
+- Year: 2020 – 2024
+- Leadership: IEEE Vice Chair · YI Yuva Chair
+
+---
+
+## Certifications
+
+- Dubai Centre for AI — One Million Prompters (2025)
+- Anthropic — AI Fluency: Framework & Foundations (2025)
+- Anthropic — Model Context Protocol: Advanced Topics (2025)
+- Anthropic — Introduction to Model Context Protocol (2025)
+- Anthropic — Building with the Claude API (2025)
+- Anthropic — Claude Code in Action (2025)
+- LangChain Academy — Deep Agents with LangGraph (2024)
+
+---
+
+## Achievements
+
+- 🏆 1st Runner-Up — Deriv AI Hackathon 2026 (366 teams)
+- 🏆 1st Runner-Up — Techkriti'22 Hackathon
+- 🏆 1st Runner-Up — Technogenesis 2024
