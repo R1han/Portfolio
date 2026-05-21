@@ -42,7 +42,7 @@ export default function Navbar() {
         <span className="font-mono text-muted text-xs hidden sm:block">rihan-sajeer / portfolio</span>
         <div className="ml-auto flex items-center gap-2">
           <a
-            href="/assets/Rihan_Sajeer_Resume.pdf"
+            href="/assets/Resume-RihanSajeer.pdf"
             download
             className="flex items-center gap-1.5 font-mono text-xs px-3 py-1.5 rounded border border-gold/40 text-gold hover:bg-gold/10 hover:border-gold/70 transition-colors"
           >
