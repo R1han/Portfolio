@@ -5,7 +5,7 @@ import SyntaxChip from '../ui/SyntaxChip'
 import Reveal from '../ui/Reveal'
 
 const stats = [
-  { value: '2+', label: 'years_experience' },
+  { value: '3+', label: 'years_experience' },
   { value: '3', label: 'cloud_platforms' },
   { value: '9.32', label: 'btech_gpa' },
   { value: '366', label: 'teams_beaten' },
@@ -29,7 +29,7 @@ export default function About() {
                 <div className="flex flex-col gap-5">
                   <p className="font-body text-subtext leading-relaxed">
                     I'm an AI Systems Developer with{' '}
-                    <SyntaxChip color="syn-orange">2+ years</SyntaxChip> of experience building
+                    <SyntaxChip color="syn-orange">3+ years</SyntaxChip> of experience building
                     production-grade{' '}
                     <SyntaxChip color="syn-blue">LLM integration</SyntaxChip> and{' '}
                     <SyntaxChip color="syn-green">agentic workflows</SyntaxChip> that solve real
