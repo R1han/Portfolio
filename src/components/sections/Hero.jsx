@@ -69,7 +69,7 @@ export default function Hero() {
               Get in Touch
             </a>
             <a
-              href="/assets/Rihan_Sajeer_Resume.pdf"
+              href="/assets/Resume-RihanSajeer.pdf"
               download
               className="font-mono text-sm px-6 py-3 rounded border border-gold/50 text-gold/80 hover:text-gold hover:border-gold transition-colors"
             >
