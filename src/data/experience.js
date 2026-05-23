@@ -16,8 +16,8 @@ export const experience = [
   {
     company: 'QuanhackASE',
     displayName: 'Quanhack',
-    role: 'Associate Software Engineer',
-    location: 'UAE',
+    role: 'Software Engineer',
+    location: 'Remote',
     period: 'Jun 2024 → Mar 2026',
     stack: ['Python', 'LangChain', 'GPT-4', 'Gemini', 'Ollama', 'Pinecone', 'AWS', 'Azure', 'Docker', 'GitHub Actions', 'Stable Diffusion', 'ElevenLabs'],
     achievements: [
@@ -34,7 +34,7 @@ export const experience = [
     company: 'QuanhackIntern',
     displayName: 'Quanhack',
     role: 'Software Engineer Intern',
-    location: 'UAE',
+    location: 'Remote',
     period: 'Dec 2023 → Jun 2024',
     stack: ['Python', 'FastAPI', 'AWS Athena', 'NLP'],
     achievements: [
